@@ -1,14 +1,6 @@
 # Reviewed Papers Summary
 
-This document provides an overview of the research papers reviewed, including the review dates, links, and—where available—the original publication venues and years. Each entry is briefly explained in English.
-
-# Reviewed Papers Summary by Field
-
 This document provides an overview of the research papers reviewed, organized by detailed research fields. Each section includes a table with the paper's review date, publication venue, published year, and a link to the presentation.
-
-# Reviewed Papers Summary by Field
-
-This document provides an overview of the research papers reviewed, organized by their detailed research fields.
 
 ---
 
@@ -29,21 +21,12 @@ These papers share similar pretraining strategies and unified text-to-text frame
 | 1   | **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension** | (TBD)       | ACL (Preprint)     | 2019           | [Link](https://docs.google.com/presentation/d/1G3L3qRQHZFukr5XntiWswpIZBZ15vhU4A8OAL7bvTwY/edit?usp=sharing) |
 | 2   | **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**                                 | (TBD)       | arXiv / JMLR       | 2019           | [Link](https://docs.google.com/presentation/d/1s9Us2b5gyM_BHapcTuirmDaf6MmvA2Thswg2CS2Jg7o/edit?usp=sharing) |
 | 3   | **BERT Bidirectional Encoder Representations from Transformers**                                                      | 2025.01.21  | NAACL              | 2019           | [Link](https://docs.google.com/presentation/d/1jXnY-XUmqbDP-8S07ohzwKElEkweXOiZ9eEZu5x83L8/edit?usp=sharing) |
+| 4   | **Attention is all you need**                                                                                         | 2025.01.17  | NeurIPS            | 2017           | [Link](https://docs.google.com/presentation/d/1Ot4-j7qjnmUXUFDz4lnPO5yzspzc44KSsF6qlBqaQYQ/edit?usp=sharing) |
+| 5   | **Seq2seq with attention**                                                                                            | 2024.06.29  | ICLR (assumed)     | 2015           | [Link](https://docs.google.com/presentation/d/1-iop7-Fl1rHyqmk_oOCYySII1ZMJ_5R5A8Il8RNtypw/edit#slide=id.p)  |
 
 ---
 
-## 3. Attention-Based Models
-
-This category groups foundational work on attention mechanisms in neural networks.
-
-| #   | Paper Title                   | Review Date | Conference / Venue | Published Year | Link                                                                                                         |
-| --- | ----------------------------- | ----------- | ------------------ | -------------- | ------------------------------------------------------------------------------------------------------------ |
-| 1   | **Attention is all you need** | 2025.01.17  | NeurIPS            | 2017           | [Link](https://docs.google.com/presentation/d/1Ot4-j7qjnmUXUFDz4lnPO5yzspzc44KSsF6qlBqaQYQ/edit?usp=sharing) |
-| 2   | **Seq2seq with attention**    | 2024.06.29  | ICLR (assumed)     | 2015           | [Link](https://docs.google.com/presentation/d/1-iop7-Fl1rHyqmk_oOCYySII1ZMJ_5R5A8Il8RNtypw/edit#slide=id.p)  |
-
----
-
-## 4. Reasoning in Language Models
+## 3. Reasoning in Language Models
 
 Includes works on multi-agent debate and chain-of-thought reasoning techniques.
 
@@ -55,7 +38,7 @@ Includes works on multi-agent debate and chain-of-thought reasoning techniques.
 
 ---
 
-## 5. Exploratory Model Analysis
+## 4. Exploratory Model Analysis
 
 | #   | Paper Title         | Review Date | Conference / Venue | Published Year | Link                                                                                                        |
 | --- | ------------------- | ----------- | ------------------ | -------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -63,7 +46,7 @@ Includes works on multi-agent debate and chain-of-thought reasoning techniques.
 
 ---
 
-## 6. Training Optimization / Fine-Tuning Techniques
+## 5. Training Optimization / Fine-Tuning Techniques
 
 | #   | Paper Title              | Review Date | Conference / Venue | Published Year | Link                                                                                                         |
 | --- | ------------------------ | ----------- | ------------------ | -------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -71,7 +54,7 @@ Includes works on multi-agent debate and chain-of-thought reasoning techniques.
 
 ---
 
-## 7. Word Embeddings / Representation Learning
+## 6. Word Embeddings / Representation Learning
 
 | #   | Paper Title                                                                    | Review Date | Conference / Venue | Published Year | Link                                                                                                         |
 | --- | ------------------------------------------------------------------------------ | ----------- | ------------------ | -------------- | ------------------------------------------------------------------------------------------------------------ |
