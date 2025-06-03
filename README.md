@@ -38,6 +38,7 @@ This section covers research on reinforcement learning techniques for aligning l
 | 1   | **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** | 2025.02.25  |      NeurIPS       |      2023      | [Link](https://docs.google.com/presentation/d/15VFKz5KmtCisZk_eJR2lElSIlVobWm1Ekmod4z7qpvU/edit?usp=sharing) |
 | 2   | **DeepSeek R1**                                                                    | 2025.05.02  |         -          |      2025      | [Link](https://docs.google.com/presentation/d/1YBOlK6ZC5mh0R3JtpGOWMhjKEHsQTyyKRf9SSDyq6CA/edit?usp=sharing) |
 | 3   | **Reasoning Model**                                                                | 2025.04.02  |         -          |       -        | [Link](https://docs.google.com/presentation/d/1PSgosh9NRIC9NvW3xN1Nu4tsguqS7gn2mQ15THMB7VM/edit?usp=sharing) |
+| 4   | **OpenAI o1 Model**                                                                | 2025.09.17  |       openAI       |      2024      | [Link](https://docs.google.com/presentation/d/1d7-MzAGycdje4dm7w1n5hyXvaELM99a71n2voPSwCb8/edit?usp=sharing) |
 
 ---
 
