@@ -51,6 +51,14 @@ This section provides an overview of research papers focusing on the Llama famil
 
 ---
 
+## 5. Reasoning Models
+
+This section focuses on research papers related to reasoning models.
+
+|  #  | Paper Title     | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
+| :-: | :-------------- | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
+|  1  | **DeepSeek R1** | 2025.05.02  |         -          |   2025.01.22   | [Link](https://docs.google.com/presentation/d/1YBOlK6ZC5mh0R3JtpGOWMhjKEHsQTyyKRf9SSDyq6CA/edit?usp=sharing) |
+
 ### Summary
 
 This document provides a structured reference for reviewed papers, categorized by major research topics. The summaries highlight key contributions and methodologies in pretrained transformer models, scalable architectures, reinforcement learning for human feedback, and the Llama family of models.
