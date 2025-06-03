@@ -33,12 +33,12 @@ This section covers research on sparsely-gated and mixture-of-experts architectu
 
 This section covers research on reinforcement learning techniques for aligning language models with human preferences, as well as studies on reasoning model architectures and their applications. It highlights methods that optimize language model behavior through human feedback and models designed for complex reasoning tasks.
 
-| #   | Paper Title                                                                        | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
-| :-- | :--------------------------------------------------------------------------------- | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
-| 1   | **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** | 2025.02.25  |      NeurIPS       |      2023      | [Link](https://docs.google.com/presentation/d/15VFKz5KmtCisZk_eJR2lElSIlVobWm1Ekmod4z7qpvU/edit?usp=sharing) |
-| 2   | **Reasoning Model**                                                                | 2025.04.02  |         -          |       -        | [Link](https://docs.google.com/presentation/d/1PSgosh9NRIC9NvW3xN1Nu4tsguqS7gn2mQ15THMB7VM/edit?usp=sharing) |
-| 3   | **DeepSeek R1**                                                                    | 2025.05.02  |         -          |      2025      | [Link](https://docs.google.com/presentation/d/1YBOlK6ZC5mh0R3JtpGOWMhjKEHsQTyyKRf9SSDyq6CA/edit?usp=sharing) |
-| 4   | **OpenAI o1 Model**                                                                | 2025.09.17  |       openAI       |      2024      | [Link](https://docs.google.com/presentation/d/1d7-MzAGycdje4dm7w1n5hyXvaELM99a71n2voPSwCb8/edit?usp=sharing) |
+| #   | Paper Title                                                                            | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
+| :-- | :------------------------------------------------------------------------------------- | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
+| 1   | **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**     | 2025.02.25  |      NeurIPS       |      2023      | [Link](https://docs.google.com/presentation/d/15VFKz5KmtCisZk_eJR2lElSIlVobWm1Ekmod4z7qpvU/edit?usp=sharing) |
+| 2   | **Reasoning Model**                                                                    | 2025.04.02  |         -          |       -        | [Link](https://docs.google.com/presentation/d/1PSgosh9NRIC9NvW3xN1Nu4tsguqS7gn2mQ15THMB7VM/edit?usp=sharing) |
+| 3   | **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning** | 2025.05.02  |      Deepseek      |      2025      | [Link](https://docs.google.com/presentation/d/1YBOlK6ZC5mh0R3JtpGOWMhjKEHsQTyyKRf9SSDyq6CA/edit?usp=sharing) |
+| 4   | **OpenAI o1 Model**                                                                    | 2025.09.17  |       openAI       |      2024      | [Link](https://docs.google.com/presentation/d/1d7-MzAGycdje4dm7w1n5hyXvaELM99a71n2voPSwCb8/edit?usp=sharing) |
 
 ---
 
@@ -48,9 +48,9 @@ This section provides an overview of research papers focusing on the Llama famil
 
 | #    | Paper Title                                                                           | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
 | :--: | :------------------------------------------------------------------------------------ | :---------: | :----------------- | :------------: | :----------------------------------------------------------------------------------------------------------: |
-| 1    | **The LLaMA 3 Herd of Model**                                                         | 2025.02.24  | meta               |   2024.07.31   | [Link](https://docs.google.com/presentation/d/1YpTnPfxIb3cOoVC9htyeNhi6Y9-aefe_FSrMrlUrfsc/edit#slide=id.p)  |
+| 1    | **The LLaMA 3 Herd of Model**                                                         | 2025.02.24  | meta               |      2024      | [Link](https://docs.google.com/presentation/d/1YpTnPfxIb3cOoVC9htyeNhi6Y9-aefe_FSrMrlUrfsc/edit#slide=id.p)  |
 | 2    | **LLaMA3 Code Review**                                                                | 2025.03.03  | meta               |       -        | [Link](https://docs.google.com/presentation/d/1F4bDtjeLYN2xcN9_hJ8kNy8Iq49W2uRAZGK_CGg92qI/edit?usp=sharing) |
-| 3    | **The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation** | 2025.04.07  | meta               |   2025.04.05   | [Link](https://docs.google.com/presentation/d/1srpgm5Pwr8S03_gAXkLQTAApeXWttSD_MEOlUfXun78/edit?usp=sharing) |
+| 3    | **The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation** | 2025.04.07  | meta               |      2025      | [Link](https://docs.google.com/presentation/d/1srpgm5Pwr8S03_gAXkLQTAApeXWttSD_MEOlUfXun78/edit?usp=sharing) |
 
 ---
 
