@@ -29,13 +29,15 @@ This section covers research on sparsely-gated and mixture-of-experts architectu
 
 ---
 
-## 3. Reinforcement Learning for Human Feedback (RLHF)
+## 3. Reinforcement Learning and Reasoning Models
 
-This section focuses on preference optimization techniques used in fine-tuning language models to align their behavior with human preferences.
+This section covers research on reinforcement learning techniques for aligning language models with human preferences, as well as studies on reasoning model architectures and their applications. It highlights methods that optimize language model behavior through human feedback and models designed for complex reasoning tasks.
 
-| #    | Paper Title                                                                        | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
-| :--: | :--------------------------------------------------------------------------------- | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
-| 1    | **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** | 2025.02.25  |      NeurIPS       |      2023      | [Link](https://docs.google.com/presentation/d/15VFKz5KmtCisZk_eJR2lElSIlVobWm1Ekmod4z7qpvU/edit?usp=sharing) |
+| #   | Paper Title                                                                        | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
+| :-- | :--------------------------------------------------------------------------------- | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
+| 1   | **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** | 2025.02.25  |      NeurIPS       |      2023      | [Link](https://docs.google.com/presentation/d/15VFKz5KmtCisZk_eJR2lElSIlVobWm1Ekmod4z7qpvU/edit?usp=sharing) |
+| 2   | **DeepSeek R1**                                                                    | 2025.05.02  |         -          |   2025.01.22   | [Link](https://docs.google.com/presentation/d/1YBOlK6ZC5mh0R3JtpGOWMhjKEHsQTyyKRf9SSDyq6CA/edit?usp=sharing) |
+| 3   | **Reasoning Model**                                                                | 2025.04.02  |         -          |       -        | [Link](https://docs.google.com/presentation/d/1PSgosh9NRIC9NvW3xN1Nu4tsguqS7gn2mQ15THMB7VM/edit?usp=sharing) |
 
 ---
 
@@ -50,15 +52,6 @@ This section provides an overview of research papers focusing on the Llama famil
 | 3    | **The LLaMA 3 Herd of Model**                                                         | 2025.02.24  | Meta               |   2024.07.31   | [Link](https://docs.google.com/presentation/d/1YpTnPfxIb3cOoVC9htyeNhi6Y9-aefe_FSrMrlUrfsc/edit#slide=id.p)  |
 
 ---
-
-## 5. Reasoning Models
-
-This section focuses on research papers related to reasoning models.
-
-|  #  | Paper Title         | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
-| :-: | :------------------ | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
-|  1  | **DeepSeek R1**     | 2025.05.02  |         -          |   2025.01.22   | [Link](https://docs.google.com/presentation/d/1YBOlK6ZC5mh0R3JtpGOWMhjKEHsQTyyKRf9SSDyq6CA/edit?usp=sharing) |
-|  2  | **Reasoning Model** | 2025.04.02  |         -          |       -        | [Link](https://docs.google.com/presentation/d/1PSgosh9NRIC9NvW3xN1Nu4tsguqS7gn2mQ15THMB7VM/edit?usp=sharing) |
 
 ### Summary
 
