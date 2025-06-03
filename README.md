@@ -10,11 +10,11 @@ Papers discussing pretraining strategies and unified text-to-text frameworks, wh
 
 | #    | Paper Title                                                                                                           | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
 | :--: | :-------------------------------------------------------------------------------------------------------------------- | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
-| 1    | **Seq2Seq with Attention**                                                                                            | 2024.06.29  |   ICLR (Assumed)   |      2015      | [Link](https://docs.google.com/presentation/d/1-iop7-Fl1rHyqmk_oOCYySII1ZMJ_5R5A8Il8RNtypw/edit#slide=id.p)  |
+| 1    | **Seq2Seq with Attention**                                                                                            | 2024.06.29  |        ICLR        |      2015      | [Link](https://docs.google.com/presentation/d/1-iop7-Fl1rHyqmk_oOCYySII1ZMJ_5R5A8Il8RNtypw/edit#slide=id.p)  |
 | 2    | **Attention Is All You Need**                                                                                         | 2025.01.17  |      NeurIPS       |      2017      | [Link](https://docs.google.com/presentation/d/1Ot4-j7qjnmUXUFDz4lnPO5yzspzc44KSsF6qlBqaQYQ/edit?usp=sharing) |
 | 3    | **BERT: Bidirectional Encoder Representations from Transformers**                                                     | 2025.01.21  |       NAACL        |      2019      | [Link](https://docs.google.com/presentation/d/1jXnY-XUmqbDP-8S07ohzwKElEkweXOiZ9eEZu5x83L8/edit?usp=sharing) |
 | 4    | **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension** | 2025.01.30  |        ACL         |      2019      | [Link](https://docs.google.com/presentation/d/1G3L3qRQHZFukr5XntiWswpIZBZ15vhU4A8OAL7bvTwY/edit?usp=sharing) |
-| 5    | **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**                                 | 2025.01.25  |    arXiv / JMLR    |      2019      | [Link](https://docs.google.com/presentation/d/1s9Us2b5gyM_BHapcTuirmDaf6MmvA2Thswg2CS2Jg7o/edit?usp=sharing) |
+| 5    | **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**                                 | 2025.01.25  |        JMLR        |      2019      | [Link](https://docs.google.com/presentation/d/1s9Us2b5gyM_BHapcTuirmDaf6MmvA2Thswg2CS2Jg7o/edit?usp=sharing) |
 
 ---
 
