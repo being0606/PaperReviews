@@ -4,7 +4,7 @@ This document provides an overview of the research papers reviewed, organized by
 
 ---
 
-## 1. Pretrained Transformer Models (T5, BART, BERT)
+## 1. Pretrained Transformer Models (Transformer, BART, BERT)
 
 Papers discussing pretraining strategies and unified text-to-text frameworks, which have significantly influenced NLP.
 
