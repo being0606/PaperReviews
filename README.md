@@ -47,10 +47,10 @@ This section covers research on reinforcement learning techniques for aligning l
 This section provides an overview of research papers focusing on the Llama family of large language models developed by Meta AI.
 
 | #    | Paper Title                                                                           | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
-| :--: | :------------------------------------------------------------------------------------ | :---------: | :----------------- | :------------: | :----------------------------------------------------------------------------------------------------------: |
-| 1    | **The LLaMA 3 Herd of Model**                                                         | 2025.02.24  | meta               |      2024      | [Link](https://docs.google.com/presentation/d/1YpTnPfxIb3cOoVC9htyeNhi6Y9-aefe_FSrMrlUrfsc/edit#slide=id.p)  |
-| 2    | **LLaMA3 Code Review**                                                                | 2025.03.03  | meta               |       -        | [Link](https://docs.google.com/presentation/d/1F4bDtjeLYN2xcN9_hJ8kNy8Iq49W2uRAZGK_CGg92qI/edit?usp=sharing) |
-| 3    | **The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation** | 2025.04.07  | meta               |      2025      | [Link](https://docs.google.com/presentation/d/1srpgm5Pwr8S03_gAXkLQTAApeXWttSD_MEOlUfXun78/edit?usp=sharing) |
+| :--: | :------------------------------------------------------------------------------------ | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
+| 1    | **The LLaMA 3 Herd of Model**                                                         | 2025.02.24  |        Meta        |      2024      | [Link](https://docs.google.com/presentation/d/1YpTnPfxIb3cOoVC9htyeNhi6Y9-aefe_FSrMrlUrfsc/edit#slide=id.p)  |
+| 2    | **LLaMA3 Code Review**                                                                | 2025.03.03  |        Meta        |      2024      | [Link](https://docs.google.com/presentation/d/1F4bDtjeLYN2xcN9_hJ8kNy8Iq49W2uRAZGK_CGg92qI/edit?usp=sharing) |
+| 3    | **The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation** | 2025.04.07  |        Meta        |      2025      | [Link](https://docs.google.com/presentation/d/1srpgm5Pwr8S03_gAXkLQTAApeXWttSD_MEOlUfXun78/edit?usp=sharing) |
 
 ---
 
