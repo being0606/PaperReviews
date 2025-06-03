@@ -55,9 +55,10 @@ This section provides an overview of research papers focusing on the Llama famil
 
 This section focuses on research papers related to reasoning models.
 
-|  #  | Paper Title     | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
-| :-: | :-------------- | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
-|  1  | **DeepSeek R1** | 2025.05.02  |         -          |   2025.01.22   | [Link](https://docs.google.com/presentation/d/1YBOlK6ZC5mh0R3JtpGOWMhjKEHsQTyyKRf9SSDyq6CA/edit?usp=sharing) |
+|  #  | Paper Title         | Review Date | Conference / Venue | Published Year |                                                     Link                                                     |
+| :-: | :------------------ | :---------: | :----------------: | :------------: | :----------------------------------------------------------------------------------------------------------: |
+|  1  | **DeepSeek R1**     | 2025.05.02  |         -          |   2025.01.22   | [Link](https://docs.google.com/presentation/d/1YBOlK6ZC5mh0R3JtpGOWMhjKEHsQTyyKRf9SSDyq6CA/edit?usp=sharing) |
+|  2  | **Reasoning Model** | 2025.04.02  |         -          |       -        | [Link](https://docs.google.com/presentation/d/1PSgosh9NRIC9NvW3xN1Nu4tsguqS7gn2mQ15THMB7VM/edit?usp=sharing) |
 
 ### Summary
 
